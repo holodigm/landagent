@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "landagent"
   gem.homepage = "http://github.com/holodigm/landagent"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Super simple postgres multi-tenancy}
+  gem.description = %Q{Super simple postgres multi-tenancy}
   gem.email = "kym@holodigm.com.au"
   gem.authors = ["Kym McInerney"]
   # dependencies defined in Gemfile
